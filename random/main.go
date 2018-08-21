@@ -1,15 +1,16 @@
 package main
+
 import(
-	"github.com/faiface/pixel"
-	"github.com/faiface/pixel/pixelgl"
-	"fmt"
-	"os"
-	"golang.org/x/image/colornames"
-	"image"
-	_ "image/png"
 	"math/rand"
 	"time"
 	"math"
+	"fmt"
+	"os"
+	_ "image/png"
+	"github.com/faiface/pixel"
+	"github.com/faiface/pixel/pixelgl"
+	"golang.org/x/image/colornames"
+	"image"
 )
 
 
